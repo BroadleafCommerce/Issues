@@ -1,6 +1,8 @@
 # Issues
 
-This repository is designed to hold all public issues around the [Broadleaf Commerce Framework](https://github.com/BroadleafCommerce/BroadleafCommerce] and related modules.
+This repository is designed to hold all public issues around the [Broadleaf Commerce Framework](https://github.com/BroadleafCommerce/BroadleafCommerce) and related modules.
+
+[Browse the issues](https://github.com/BroadleafCommerce/Issues)
 
 ## Other places to get help
 
